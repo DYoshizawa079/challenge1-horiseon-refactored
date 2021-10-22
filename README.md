@@ -1,4 +1,4 @@
-# challenge1-horiseon-refactored
+# Challenge1: Horiseon App Refactored
 U of T Bootacamp Weekly Challenge 1: HTML CSS Git Challenge: Code Refactor
 
 The existing Horiseon application was updated with the following improvements:
